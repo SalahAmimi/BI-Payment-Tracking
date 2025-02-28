@@ -36,4 +36,4 @@ Objective: Identify types of online purchases and most promising regions.
 - SQL Server Analysis Services (SSAS)
 - SQL Server Management Studio
 - Power BI
-# BI-Payment-Tracking
+
